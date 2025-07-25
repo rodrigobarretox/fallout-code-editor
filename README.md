@@ -4,6 +4,8 @@ Um editor de código com temática pós-apocalíptica inspirado no universo Fall
 
 ![Fallout Code Editor](https://img.shields.io/badge/Fallout-Code%20Editor-00ff41?style=for-the-badge&logo=terminal)
 
+![Fallout Code Editor](https://i.imgur.com/cTsrnFy.jpeg)
+
 ## 🌟 Características
 
 ### 🎨 Visual Único
